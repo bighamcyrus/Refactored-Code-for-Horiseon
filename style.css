@@ -1,3 +1,4 @@
+/* universal tags */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -16,7 +17,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* header tags */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -53,7 +54,7 @@ header nav ul li {
     margin-left: 25px; 
 }
 
- 
+ /* hero class */
 .hero {
     height: 800px;
     width: 100%;
@@ -62,7 +63,7 @@ header nav ul li {
     background-size:cover;
     background-position: center;    
 }
-
+/* image location tags */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -72,7 +73,7 @@ header nav ul li {
     float: right;
     margin-left: 25px;
 }
-
+/* main body style */
  main {
     width: 75%;
     display: inline-block;
@@ -97,7 +98,7 @@ header nav ul li {
     font-size: 36px;
 }
 
-/* benifit section */
+/* benifit section styling */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -124,7 +125,7 @@ header nav ul li {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* footer styling */
 footer {
     padding: 30px;
     clear: both;
