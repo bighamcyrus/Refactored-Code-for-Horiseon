@@ -1,6 +1,6 @@
 # challenge-1-repo
 
-[live link](https://bighamcyrus.github.io/challenge-1-repo/)
+[live link](https://bighamcyrus.github.io/Refactored-Code-for-Horiseon/)
 
 ## Description
 
